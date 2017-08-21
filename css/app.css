@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.border {
+  height: 10px;
+  border: 0;
+  background-color: #fd7473;
+  background-image: -webkit-gradient(linear, left top, right top, from(#fd7473), color-stop(25%, #fd7473), color-stop(25%, #fec951), color-stop(50%, #fec951), color-stop(50%, #47b8e0), color-stop(75%, #47b8e0), color-stop(75%, #9f68d0), to(#9f68d0));
+  background-image: linear-gradient(to right, #fd7473, #fd7473 25%, #fec951 25%, #fec951 50%, #47b8e0 50%, #47b8e0 75%, #9f68d0 75%, #9f68d0 100%);
+  background-size: 50% 100%; }
